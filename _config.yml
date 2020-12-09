@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: "Perth JAWAs"
 email: "perthjawas@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
